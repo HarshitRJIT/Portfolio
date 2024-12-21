@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section id="about">
       <h2>About Me</h2>
-      <img src="./src/assets/HDimage.jpg" alt="err" />
+      <img src="./src/assets/HD.jpg" alt="err" />
       <p>
           Hi, I'm **Harshit Dubey**, a dedicated **MERN Stack Developer** with a passion for crafting exceptional web experiences. I'm proficient in both frontend and backend technologies, enabling me to build robust and scalable applications.
         </p>
